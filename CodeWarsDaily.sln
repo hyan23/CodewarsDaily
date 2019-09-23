@@ -1,7 +1,8 @@
-
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWarsDaily", "CodeWarsDaily\CodeWarsDaily.csproj", "{6243BB23-5ACD-4473-9684-7424090AED02}"
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29223.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWarsDaily", "CodeWarsDaily.csproj", "{6243BB23-5ACD-4473-9684-7424090AED02}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,5 +14,11 @@ Global
 		{6243BB23-5ACD-4473-9684-7424090AED02}.Debug|x86.Build.0 = Debug|x86
 		{6243BB23-5ACD-4473-9684-7424090AED02}.Release|x86.ActiveCfg = Release|x86
 		{6243BB23-5ACD-4473-9684-7424090AED02}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2C0061A-51B8-4CA3-9855-7FF274E1FEFD}
 	EndGlobalSection
 EndGlobal
